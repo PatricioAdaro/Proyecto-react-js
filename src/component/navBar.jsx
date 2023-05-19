@@ -6,14 +6,14 @@ const NavBar = ()=>{
         <nav className="nav-bar">
             <div className="logo">
                 <h3>
-                MUSIC SHOP
+                MODA SHOP
                 </h3>
             </div>
             <div className="menu">
-                <button className="botones">Categoria 1</button>
-                <button className="botones">Categoria 2</button>
-                <button className="botones">Categoria 3</button>
-                <button className="botones">Categoria 4</button>
+                <button className="botones">Camperas</button>
+                <button className="botones">Pantalones</button>
+                <button className="botones">Remeras</button>
+                
             </div>
         
             <CartWidget/>
